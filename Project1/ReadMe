@@ -1,0 +1,5 @@
+Project 1 is a command line program that allows the user to read in drilling data in an 18 column comma-separated format. 
+The program runs various error checking steps and allows the user to sort based on a given column in the data or search for
+a user-specified query. The data is stored using a dynamically resizable array created by myself and is sorted using a quicksort written 
+by me. Additionally, I have implemented and altered both binarySearch and linearSearch functions to return all instances of a data
+key found, not just the first.
