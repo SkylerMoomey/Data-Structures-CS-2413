@@ -30,6 +30,7 @@ template <typename T>
 void OULinkedListEnumerator::OULinkedListEnumerator(OULink<T>* first)
 {
     this->current = first;
+    
 }
 
 //returns true if current link has a next link
